@@ -1,1 +1,3 @@
 Hello team
+
+Here is cheatsheet for git commands
